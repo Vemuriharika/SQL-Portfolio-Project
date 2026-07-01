@@ -55,13 +55,19 @@ The dataset enables the analysis of customer purchasing behavior, regional sales
 
 ## Project Structure
 
-```text
+
 SQL-Portfolio-Project/
+
 │
+
 ├── Sql_Portfolio_Project.sql      # SQL scripts for business analysis
+
 ├── super_store.csv                # Source dataset
+
 ├── super_store_wb.xlsx            # Excel workbook
+
 ├── Sales_Dashboard.twb            # Tableau dashboard
+
 └── README.md
 
 
@@ -197,13 +203,6 @@ Potential improvements for this project include:
 * Building a Power BI version of the dashboard.
 * Performing advanced customer segmentation.
 * Implementing query performance optimization techniques.
-
-
-
-## About Me
-
-I am an aspiring **Data Analyst** with a strong interest in SQL, Python, Excel, Tableau, and Business Intelligence. I enjoy transforming raw data into meaningful insights that support informed business decisions and continuously enhance my technical skills through hands-on projects.
-
 
 
 ## Acknowledgements
